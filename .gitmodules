@@ -1,0 +1,6 @@
+[submodule "codecrew/qa"]
+	path = codecrew/qa
+	url = https://github.com/blktechies/askbot-devel.git
+[submodule "codecrew/thimble"]
+	path = codecrew/thimble
+	url = https://github.com/blktechies/webpagemaker.git
