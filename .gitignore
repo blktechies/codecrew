@@ -56,6 +56,9 @@ lib
 lib64
 __pycache__
 
+# VirtualEnv
+include
+
 # Installer logs
 pip-log.txt
 
